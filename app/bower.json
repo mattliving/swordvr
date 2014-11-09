@@ -1,0 +1,22 @@
+{
+  "name": "vrsword",
+  "version": "0.0.0",
+  "authors": [
+    "M L Livingston <matt.l.livingston@gmail.com>"
+  ],
+  "description": "VR Sword Proto",
+  "main": "main.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "three.js": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
